@@ -52,7 +52,7 @@ export default {
 </script>
 <style>
 .bandera {
-    font-size: 12px;
+    font-size: 13px;
 }
 .bandera-falsa {
     font-size: 13px;
